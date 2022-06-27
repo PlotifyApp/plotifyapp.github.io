@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ce7915fb4403c2f895bc",
-    "url": "/static/css/main.daaffb67.chunk.css"
+    "revision": "37d527d52e93455af083",
+    "url": "/static/css/main.af2cdca9.chunk.css"
   },
   {
-    "revision": "ce7915fb4403c2f895bc",
-    "url": "/static/js/main.8f6495a6.chunk.js"
+    "revision": "37d527d52e93455af083",
+    "url": "/static/js/main.a72b5c1f.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -24,11 +24,7 @@ self.__precacheManifest = [
     "url": "/static/media/plotifyLogo.6ec3b478.png"
   },
   {
-    "revision": "4791f781dc2611c7de578f706cabec6e",
-    "url": "/static/media/testLogo.4791f781.png"
-  },
-  {
-    "revision": "a4e49c6ff944386618b3b2e0c01da5a9",
+    "revision": "547ad765b5e2036b27edadc0b325742b",
     "url": "/index.html"
   }
 ];

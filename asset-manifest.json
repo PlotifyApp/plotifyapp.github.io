@@ -1,16 +1,15 @@
 {
-  "main.css": "/static/css/main.daaffb67.chunk.css",
-  "main.js": "/static/js/main.8f6495a6.chunk.js",
-  "main.js.map": "/static/js/main.8f6495a6.chunk.js.map",
+  "main.css": "/static/css/main.af2cdca9.chunk.css",
+  "main.js": "/static/js/main.a72b5c1f.chunk.js",
+  "main.js.map": "/static/js/main.a72b5c1f.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
   "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
   "static/js/2.59b3a126.chunk.js": "/static/js/2.59b3a126.chunk.js",
   "static/js/2.59b3a126.chunk.js.map": "/static/js/2.59b3a126.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.6f732a845340e69e32f944c67dabd5ad.js": "/precache-manifest.6f732a845340e69e32f944c67dabd5ad.js",
+  "precache-manifest.d9da9e141d8a85b14b541af849e649b9.js": "/precache-manifest.d9da9e141d8a85b14b541af849e649b9.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/main.daaffb67.chunk.css.map": "/static/css/main.daaffb67.chunk.css.map",
+  "static/css/main.af2cdca9.chunk.css.map": "/static/css/main.af2cdca9.chunk.css.map",
   "static/media/plotifyIcon.png": "/static/media/plotifyIcon.8968b6e4.png",
-  "static/media/plotifyLogo.png": "/static/media/plotifyLogo.6ec3b478.png",
-  "static/media/testLogo.png": "/static/media/testLogo.4791f781.png"
+  "static/media/plotifyLogo.png": "/static/media/plotifyLogo.6ec3b478.png"
 }
